@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Ompi1tfnMID3ciPK8JeRIF76RaP/BGpI/cx5AqqjdiI=",
+  "Source": "GithubDockerCICD",
+  "BasePath": "_content/GithubDockerCICD",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
