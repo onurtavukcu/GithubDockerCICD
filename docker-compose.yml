@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  githubdockercicd:
+    image: ${DOCKER_REGISTRY-}githubdockercicd
+    build:
+      context: .
+      dockerfile: GithubDockerCICD\Dockerfile

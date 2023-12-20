@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("2310d0fb-e798-442c-93a9-49a4c30709b4")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("GithubDockerCICD")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1814a91790f9be7c31470ef24f2d2e4cef347876")]
 [assembly: System.Reflection.AssemblyProductAttribute("GithubDockerCICD")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GithubDockerCICD")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

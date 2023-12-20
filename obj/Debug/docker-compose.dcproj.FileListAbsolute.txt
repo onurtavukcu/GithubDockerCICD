@@ -1,0 +1,13 @@
+C:\Users\adm\source\repos\GithubDockerCICD\bin\Debug\GithubDockerCICD.deps.json
+C:\Users\adm\source\repos\GithubDockerCICD\bin\Debug\GithubDockerCICD.runtimeconfig.json
+C:\Users\adm\source\repos\GithubDockerCICD\bin\Debug\appsettings.Development.json
+C:\Users\adm\source\repos\GithubDockerCICD\bin\Debug\appsettings.json
+C:\Users\adm\source\repos\GithubDockerCICD\bin\Debug\GithubDockerCICD.exe
+C:\Users\adm\source\repos\GithubDockerCICD\bin\Debug\GithubDockerCICD.dll
+C:\Users\adm\source\repos\GithubDockerCICD\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\adm\source\repos\GithubDockerCICD\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\adm\source\repos\GithubDockerCICD\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\adm\source\repos\GithubDockerCICD\bin\Debug\GithubDockerCICD.pdb
+C:\Users\adm\source\repos\GithubDockerCICD\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Users\adm\source\repos\GithubDockerCICD\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\adm\source\repos\GithubDockerCICD\obj\Debug\docker-compose.dcproj.CopyComplete

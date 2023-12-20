@@ -31,3 +31,4 @@ C:\Users\adm\source\repos\GithubDockerCICD\GithubDockerCICD\obj\Debug\net7.0\ref
 C:\Users\adm\source\repos\GithubDockerCICD\GithubDockerCICD\obj\Debug\net7.0\GithubDockerCICD.pdb
 C:\Users\adm\source\repos\GithubDockerCICD\GithubDockerCICD\obj\Debug\net7.0\GithubDockerCICD.genruntimeconfig.cache
 C:\Users\adm\source\repos\GithubDockerCICD\GithubDockerCICD\obj\Debug\net7.0\ref\GithubDockerCICD.dll
+C:\Users\adm\source\repos\GithubDockerCICD\GithubDockerCICD\obj\Debug\net7.0\GithubDockerCICD.sourcelink.json

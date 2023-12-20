@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Sbu7uj2/YWze9fwma9TJ3FBPwttfUIdY71TsVL4pGEh3LpfpJV+d7uxl2A4NdmZDY/HwkLw90wxwwvowDK3CQw==",
+  "dgSpecHash": "n7MILCLDCl0xrpY5JuuOT2YffLJHuBNoUFDeRnpeiUwo2xYuXrW9YzKNeJ6+1LkXSahvfHp+6baDq/uJk4hWOA==",
   "success": true,
   "projectFilePath": "C:\\Users\\adm\\source\\repos\\GithubDockerCICD\\GithubDockerCICD\\GithubDockerCICD.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\adm\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.14\\microsoft.aspnetcore.openapi.7.0.14.nupkg.sha512",
     "C:\\Users\\adm\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\adm\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\adm\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512",
     "C:\\Users\\adm\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
     "C:\\Users\\adm\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
     "C:\\Users\\adm\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
